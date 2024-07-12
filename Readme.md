@@ -38,4 +38,3 @@ Course topics:
 Different projects:
 - [Form Validation](https://www.youtube.com/watch?v=In0nB0ABaUk)
 - [Advanced Light/Dark Theme Toggle](https://www.youtube.com/watch?v=RiWxhm5ZdFM)
-- [Use Mapbox To Create A Google Maps Clone Quickly](https://www.youtube.com/watch?v=OySigNMXOZU)
