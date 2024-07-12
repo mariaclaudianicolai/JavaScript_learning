@@ -1,7 +1,7 @@
 # JavaScript Course
 
 ## Lessons
-Course at: https://www.youtube.com/watch?v=EfAl9bwzVZk
+Course at: [Link](https://www.youtube.com/watch?v=EfAl9bwzVZk)
 
 Course topics:
 - Quick Start
