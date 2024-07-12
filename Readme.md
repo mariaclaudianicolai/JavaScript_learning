@@ -1,5 +1,6 @@
 # JavaScript Course
 
+## Lessons
 Course at: https://www.youtube.com/watch?v=EfAl9bwzVZk
 
 Course topics:
@@ -31,3 +32,9 @@ Course topics:
 - Promises / Fetch / Async & Await
 - Regular Expressions
 - Applying RegEx in JavaScript
+
+## Projects
+
+Different projects:
+- [Form Validation](https://www.youtube.com/watch?v=In0nB0ABaUk)
+- [Advanced Light/Dark Theme Toggle](https://www.youtube.com/watch?v=RiWxhm5ZdFM)
